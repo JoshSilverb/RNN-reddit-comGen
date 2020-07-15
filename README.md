@@ -1,5 +1,5 @@
 ## The Effect of Trainable Parameter Count on Training Time and Accuracy
-- This is the code used in Josh Silverberg's UROP research project on The Effect of Trainable Parameter Count on Training Time and Accuracy in the context of automatic Reddit comment generation
+- This is the code used in Josh Silverberg's UROP research project on The Effect of Trainable Parameter Count on Training Time and Accuracy in the context of automatic Reddit comment generation, created with mentorship from Dr. Paramveer Dhillon
 - The full symposium poster can be found *[here](https://drive.google.com/file/d/1spXu6-lUMrCUJRdEKuX8dligpyoGDfrH/view?usp=sharing)*
 - This code is based off of the ACL 2019 SRW paper *[AGPC: Automatic Generation of Personalized Comment Based on User Profile](https://arxiv.org/pdf/1907.10371v1.pdf)* by Zeng et. al.
 
